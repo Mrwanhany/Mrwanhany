@@ -39,23 +39,28 @@
 </div> -->
 
 
-### A Student, Developer & Writer
+#### Talking about myself :
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+A professional iOS developer with 4 years of experience in building native iOS applications and 1 year of hands-on experience with Flutter. I specialize in crafting high-quality, scalable, and feature-rich mobile applications that provide seamless user experiences.
 
-#### Talking about my personal stuff:
+#### What I Do :
 
-- 👉 Leading [Flutter Islamabad][flutter_isb]
-- 📦 Maintainer of dart package [awesome_snackbar_content](https://pub.dev/packages/awesome_snackbar_content)
-- ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
-- 🏎️ F1 - Loves to watch cars go vhroom! vhroom!
-- 📸 Mobile photography
-- 📚 Books!!
-- ⚽️ "Ah! There was a sport!"
-- 👀 Wanna see, what I do? [Portfolio][profile]
-- 📜 Take a look at my [Resume][resume]
+ • iOS Development – Creating modern, high-performance iOS applications using Swift, SwiftUI, and UIKit.
+ • Flutter Development (Junior Level) – Building cross-platform applications with Dart and Flutter.
+ • Mobile App Architecture – Implementing clean code structures with MVVM, SOLID principles, and Clean Architecture.
+ • API Integration – Connecting apps with RESTful APIs, Firebase, and real-time databases.
+ • Performance Optimization – Enhancing app efficiency, reducing load times, and improving responsiveness.
+
+
+#### 🔧 Tech Stack & Expertise:
+
+
+✅ iOS Development: Swift, SwiftUI, UIKit, Core Data
+✅ Flutter & Dart: Cross-platform app development
+✅ State Management: Combine, Riverpod, Bloc, Cubit
+✅ Backend & APIs: RESTful APIs, Firebase, GraphQL
+✅ Agile Development & CI/CD: Streamlining app deployment
+✅ UX/UI Optimization: Creating intuitive and engaging user experiences
 
 
 <div align="center">
