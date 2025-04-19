@@ -78,5 +78,6 @@ A professional iOS developer with 4 years of experience in building native iOS a
 </div>
 
 <br>
-
-<img align="center" src="img.jpeg" width="500" height="320" />
+<p align="center">
+  <img src="assets/images/img.jpeg" alt="Banner" width="100%" />
+</p>
