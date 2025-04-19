@@ -45,22 +45,22 @@ A professional iOS developer with 4 years of experience in building native iOS a
 
 #### What I Do :
 
- • iOS Development – Creating modern, high-performance iOS applications using Swift, SwiftUI, and UIKit.
- • Flutter Development (Junior Level) – Building cross-platform applications with Dart and Flutter.
- • Mobile App Architecture – Implementing clean code structures with MVVM, SOLID principles, and Clean Architecture.
- • API Integration – Connecting apps with RESTful APIs, Firebase, and real-time databases.
- • Performance Optimization – Enhancing app efficiency, reducing load times, and improving responsiveness.
+ • iOS Development – Creating modern, high-performance iOS applications using Swift, SwiftUI, and UIKit. <br>
+ • Flutter Development (Junior Level) – Building cross-platform applications with Dart and Flutter. <br>
+ • Mobile App Architecture – Implementing clean code structures with MVVM, SOLID principles, and Clean Architecture. <br>
+ • API Integration – Connecting apps with RESTful APIs, Firebase, and real-time databases. <br>
+ • Performance Optimization – Enhancing app efficiency, reducing load times, and improving responsiveness. <br>
 
 
 #### 🔧 Tech Stack & Expertise:
 
 
-✅ iOS Development: Swift, SwiftUI, UIKit, Core Data
-✅ Flutter & Dart: Cross-platform app development
-✅ State Management: Combine, Riverpod, Bloc, Cubit
-✅ Backend & APIs: RESTful APIs, Firebase, GraphQL
-✅ Agile Development & CI/CD: Streamlining app deployment
-✅ UX/UI Optimization: Creating intuitive and engaging user experiences
+✅ iOS Development: Swift, SwiftUI, UIKit, Core Data <br>
+✅ Flutter & Dart: Cross-platform app development <br>
+✅ State Management: Combine, Riverpod, Bloc, Cubit <br>
+✅ Backend & APIs: RESTful APIs, Firebase, GraphQL <br>
+✅ Agile Development & CI/CD: Streamlining app deployment <br>
+✅ UX/UI Optimization: Creating intuitive and engaging user experiences <br>
 
 
 <div align="center">
